@@ -1,0 +1,24 @@
+{
+"products" :[
+{"id":1,"nama":"Bulbul, black-eyed","category":"Aquamarine"},
+{"id":2,"nama":"Pied cormorant","category":"Teal"},
+{"id":3,"nama":"Kite, black","category":"Puce"},
+{"id":4,"nama":"Cape wild cat","category":"Maroon"},
+{"id":5,"nama":"Spotted wood sandpiper","category":"Orange"},
+{"id":6,"nama":"Euro wallaby","category":"Red"},
+{"id":7,"nama":"Grouse, sage","category":"Indigo"},
+{"id":8,"nama":"Woodpecker, red-headed","category":"Goldenrod"},
+{"id":9,"nama":"Devil, tasmanian","category":"Fuscia"},
+{"id":10,"nama":"Mockingbird, galapagos","category":"Khaki"},
+{"id":11,"nama":"Masked booby","category":"Turquoise"},
+{"id":12,"nama":"Kangaroo, red","category":"Indigo"},
+{"id":13,"nama":"Mongoose, javan gold-spotted","category":"Teal"},
+{"id":14,"nama":"Caracara, yellow-headed","category":"Khaki"},
+{"id":15,"nama":"Carpet python","category":"Khaki"},
+{"id":16,"nama":"Bushbaby, large-eared","category":"Aquamarine"},
+{"id":17,"nama":"Asian false vampire bat","category":"Green"},
+{"id":18,"nama":"Buffalo, american","category":"Orange"},
+{"id":19,"nama":"Crimson-breasted shrike","category":"Mauv"},
+{"id":20,"nama":"Clark's nutcracker","category":"Turquoise"}
+]
+}
